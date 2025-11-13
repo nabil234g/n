@@ -1,0 +1,6 @@
+pytest
+pandas
+langchain-ollama
+langchain-core
+pydantic
+pyarrow
